@@ -111,8 +111,8 @@ $nav-default-item-active-color: $global-primary-background;
 
 $navbar-nav-item-height: 48px;
 $navbar-background: #2a9df4;
-$navbar-nav-item-color: $color-dark;
-$navbar-nav-item-hover-color: $global-primary-background;
+$navbar-nav-item-color: #000;
+$navbar-nav-item-hover-color: #aaaaaa;
 $navbar-nav-item-active-color: $global-primary-background;
 $navbar-nav-item-font-size: .75rem;
 $navbar-nav-item-text-transform: none;
@@ -125,7 +125,7 @@ $navbar-dropdown-nav-item-hover-color: $global-primary-background;
 $subnav-item-font-size: $global-small-font-size;
 $subnav-item-text-transform: uppercase;
 
-$logo-font-size: 1.75rem;
+$logo-font-size: 1.25rem;
 $logo-color: $color-dark;
 $logo-hover-color: $color-dark;
 
