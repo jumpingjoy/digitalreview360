@@ -5,20 +5,23 @@ center:
   - title: Home
     url: /
 
-  - title: All Posts
-    url: /blog/
+  - title: Graphic
+    url: /category/graphic/
 
-  - title: Business
-    url: /category/business/
+  - title: SEO & Traffic
+    url: /category/seo-traffic/
 
-  - title: Culture
-    url: /category/culture/
+  - title: Youtube & Video
+    url: /category/youtube-video/
 
-  - title: Travel
-    url: /category/travel/
+  - title: Themes & Plugins
+    url: /category/themes-plugins/
 
-  - title: Sport
-    url: /category/sport/
+  - title: Tools & Softwares
+    url: /category/tools-softwares/
+
+  - title: Training & Courses
+    url: /category/training-courses/
 
   - title: Pages
     dropdown:

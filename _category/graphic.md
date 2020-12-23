@@ -1,4 +1,4 @@
 ---
-tag: seo-traffic
+tag: graphic
 permalink: "/category/graphic/"
 ---
