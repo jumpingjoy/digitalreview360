@@ -5,9 +5,9 @@
 # If you change this file, please restart the server process.
 
 # Site settings
-title:              WatchNationPro.com
+title:              DigitalReview360.com
 description:        Love watches? Look for the perfect watch guide, tips and reviews to save money, make life easier, work smarter and earn more money and respect following the latest trends in watch industry.
-url:                http://watchnationpro.com # Site base hostname & protocol, e.g. http://example.com
+url:                http://digitalreview360.com # Site base hostname & protocol, e.g. http://example.com
 baseurl:            # Site subpath, e.g. /blog
 logo_image:
   dark:             # Dark logo e.g logo-dark.svg upload to /uploads/ folder, used in header, mobile navigation and page sidebar About widget
