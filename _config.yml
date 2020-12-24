@@ -5,10 +5,10 @@
 # If you change this file, please restart the server process.
 
 # Site settings
-title:              DigitalReview360.com
-description:        Sharing my honest digital software products review.
-url:                http://digitalreview360.com
-baseurl:            "" # Site subpath, e.g. /blog
+title:              WatchNationPro.com
+description:        Love watches? Look for the perfect watch guide, tips and reviews to save money, make life easier, work smarter and earn more money and respect following the latest trends in watch industry.
+url:                http://watchnationpro.com # Site base hostname & protocol, e.g. http://example.com
+baseurl:            # Site subpath, e.g. /blog
 logo_image:
   dark:             # Dark logo e.g logo-dark.svg upload to /uploads/ folder, used in header, mobile navigation and page sidebar About widget
   light:            # Light logo e.g. logo-light.svg upload to /uploads/ folder, used in footer About widget
@@ -24,7 +24,7 @@ disqus:
 instagram_accesstoken:
 
 footer:             # Default footer image settings
-  copyright:        Made by <a href="https://unbound.studio/">human</a> in Bratislava, Slovakia.
+  copyright:        Made by JJ Tech
 
 # navbar settings
 navbar_primary:
